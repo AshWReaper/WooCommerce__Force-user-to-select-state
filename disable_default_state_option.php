@@ -1,3 +1,4 @@
+<?
 /**
 * Add this code to your functions.php file
 * It will add a new (disabled) option to the state dropdown fields forcing the user to select an option.
